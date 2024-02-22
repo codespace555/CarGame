@@ -72,6 +72,8 @@
   widows: 300px;
   position: absolute; 
   z-index: 1;
+  border: 7px dashed #554f;
+
 }
 
 .line {
