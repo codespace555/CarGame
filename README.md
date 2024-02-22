@@ -2,7 +2,7 @@
 
 This is a simple car game built using HTML, CSS, and Vanilla JavaScript. In this game, you control a blue car using the arrow keys and navigate it through a road while avoiding collisions with enemy cars.
 Click to Link to see Demo (https://mycargame.netlify.app)
-
+[![Demo Video](Screenshot%202024-02-22%20125819.png)]()
 
 
 
