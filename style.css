@@ -1,0 +1,103 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  font-family: "Roboto", sans-serif;
+}
+
+
+.hide {
+  display: none;
+}
+.mainCarGame {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  width: auto;
+  perspective: 500px;
+  overflow: hidden;
+ background-image: url(Untitled-2.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+ 
+
+}
+.gameScreen {
+
+  width: 40%;
+  height:100%;
+  background-color: #2d3436;
+  position: relative;
+  overflow: hidden;
+  transform: rotateX(50deg) ;
+  border-right: 7px dashed #c8b6e5;
+  border-left: 7px dashed #c8b6e5;
+  perspective: 200px;
+
+  
+}
+.car,.enemyCar {
+  
+  width: 60px;
+  height: 80px;
+  position: absolute;
+  bottom: 120px;
+  left: 150px;
+  display: inline-block;
+ background: url(Untitled-4.png);
+  
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  
+  transform: rotateX(-20deg); 
+ 
+
+}
+
+.WaringPOp {
+  background-color: cornflowerblue;
+  color: white;
+  width: 500px;
+  height:  80px;
+  border-radius: 10px;
+  text-align: center;
+  font-size: 2em;
+  line-height: 70px;
+  transform: rotateX(-10deg); 
+  cursor: pointer;
+  widows: 300px;
+  position: absolute; 
+  z-index: 1;
+}
+
+.line {
+  width: 10px;
+  height: 150px;
+  position: absolute;
+  background-color: #fff;
+  margin-left: 49%;
+}
+
+.enemyCar{
+  background-image: url(Untitled-5.png);
+
+}
+
+#scoreCard{
+    width: 500px;
+  height:  80px;
+  border-radius: 10px;
+  text-align: center;
+  font-size: 2em;
+  line-height: 70px;
+  background-color: #696969;
+  margin: 2px;
+  position: sticky;
+  color: aliceblue;
+  transform: rotateX(10deg) 
+
+}
