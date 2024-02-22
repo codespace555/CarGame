@@ -4,8 +4,11 @@ This is a simple car game built using HTML, CSS, and Vanilla JavaScript. In this
 
 ## How to Play
 - Hit Space Key Tio Start Game
+- ![Alt text](image link)
 - Use the **arrow keys** (up, down, left, right) to control the movement of the car.
+- ![Alt text](image link)
 - Navigate the car through the road while avoiding collisions with enemy cars.
+- ![Alt text](image link)
 - Your score increases as you progress. Try to achieve the highest score possible!
 
 ## Getting Started
