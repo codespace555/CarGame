@@ -3,8 +3,7 @@
 This is a simple car game built using HTML, CSS, and Vanilla JavaScript. In this game, you control a blue car using the arrow keys and navigate it through a road while avoiding collisions with enemy cars.
 Click to Link to see Demo (https://mycargame.netlify.app)
 
-[<img src="https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg" width="50%">](https://www.youtube.com/watch?v=Hc79sDi3f0U "Now in Android: 55")
-
+[<img src="[https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg](https://github.com/codespace555/CarGame/blob/main/CarRace_%20For%20you%20fun%20%E2%80%94%20Mozilla%20Firefox%202024-02-22%2012-45-23.mp4)" width="50%">
 
 
 ## How to Play
