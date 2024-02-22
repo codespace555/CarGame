@@ -46,7 +46,7 @@ function gamePlay() {
     if (keyevent["ArrowDown"] && player.y < roadArea.height - -5) {
       player.y += speed;
     }
-    if (keyevent["ArrowRight"] && player.x < roadArea.width - 500) {
+    if (keyevent["ArrowRight"] && player.x < roadArea.width - 900) {
       player.x += speed;
     }
     if (keyevent["ArrowLeft"] && player.x > 0) {
