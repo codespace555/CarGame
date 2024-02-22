@@ -3,8 +3,8 @@
 This is a simple car game built using HTML, CSS, and Vanilla JavaScript. In this game, you control a blue car using the arrow keys and navigate it through a road while avoiding collisions with enemy cars.
 
 ## How to Play
-- Hit Space Key Tio Start Game
-- ![Alt text](image link)
+- Hit Space Key To Start Game
+- ![Alt text]((https://github.com/codespace555/CarGame/blob/main/Screenshot%202024-02-22%20125819.png))
 - Use the **arrow keys** (up, down, left, right) to control the movement of the car.
 - ![Alt text](image link)
 - Navigate the car through the road while avoiding collisions with enemy cars.
