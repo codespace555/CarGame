@@ -35,4 +35,6 @@ The project structure is as follows:
 
 This game was created by CodeSpace555.
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/653dbdc4-8beb-4162-8fe3-d9656ffae9ec/deploy-status)](https://app.netlify.com/sites/steady-griffin-1d9ffb/deploys)
+
 
